@@ -1,6 +1,6 @@
 # javaTimer
-Tworzenie graficznego interfejsu użytkownika w języku JAVA:
-1. Program z wykorzystaniem biblioteki AWT wyświetlający tabliczkę mnożenia dla liczb całkowitych od 1 do 10 w miejscu wskazanym przez kursor myszy. Zastosowane 
-zagnieżdżone pętle for. Wykorzysty obiekt Frame do tworzenia Okna i prezentacji danych.
-2. Program z wykorzystaniem biblioteki AWT do wprowadzania tekstu z klawiatury w miejscu wskazanym przez kursor myszki. Wykorzystany obiekt Frame do tworzenia Okna i prezentacji danych
-3. Wyświetlanie co 5 sekund w losowym miejscu w oknie graficznym tekstu zdefiniowanego w programie. Wykorzystany obiekt Frame do tworzenia Okna i prezentacji danych oraz obiekty Timer i TimerTask do zarządzania zdarzeniem związanym z zegarem czasu rzeczywistego
+Creating a graphical user interface in JAVA:
+1. Program using the AWT library that displays the multiplication table for integers from 1 to 10 in the place indicated by the mouse cursor. Used
+nested for loops. I will use the Frame object to create a Window and present data.
+2. Program using the AWT library for entering text from the keyboard in the place indicated by the mouse cursor. The Frame object used to create a Window and data presentation
+3. Displaying the text defined in the program every 5 seconds in a random place in the graphics window. The Frame object used to create the Window and data presentation, and the Timer and TimerTask objects to manage the event related to the real-time clock
